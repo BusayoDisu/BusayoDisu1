@@ -1,11 +1,6 @@
 - 🔭 I’m currently working on the Edmonton City Food Drive Optimization Project
-
 - 🌱 I’m currently learning Machine Learning and Data Analytics
-
-- 📫 How to reach me: www.linkedin.com/in/olubusayodisu
-
-- 😄 Pronouns: ... She/her
-
+- 📫 How to reach me: www.linkedin.com/in/olubusayodis
 - ⚡ Fun fact: ...I am also a Pharmacist
 -
 <!--
