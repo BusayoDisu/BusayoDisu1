@@ -1,32 +1,43 @@
-- 🔭 I’m currently working on the Edmonton City Food Drive Optimization Project
-- 🌱 I’m currently learning Machine Learning and Data Analytics
-- 📫 How to reach me: www.linkedin.com/in/olubusayodis
-- ⚡ Fun fact: ...I am also a Pharmacist
--
-<!--
+<p align = "center" draggable=”false” ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HNB-ex4xb4H3-PXRcywP5zKC_3U8VzQTPA&usqp=CAU" 
+     width="200px"
+     height="auto"/>
+</p>
 
-**BusayoDisu/BusayoDisu** is a ✨_specia_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- 
 
-Here are some ideas to get you started:
+# <h1 align="center" id="heading"># Project Title-Team Members: Person 1, Person 2
+</h1>
+
 
  
 
-- 🔭 I’m currently working on ...
+### PROJECT TITLE: Project Title
 
-- 🌱 I’m currently learning ...
+Welcome to the repository for our Capstone project at Norquest College. This project aims to ...
 
-- 👯 I’m looking to collaborate on ...
+### Problem Statement
 
-- 🤔 I’m looking for help with ...
+Describe Problem statement here
 
-- 💬 Ask me about ...
+### Solution
 
-- 📫 How to reach me: ...
+Proposed Solution & Models used
 
-- 😄 Pronouns: ...
+### Repository Structure
 
-- ⚡ Fun fact: ...
+The repository contains the following files:
 
--->
+data.csv: Describe dataset
+
+
+### Team Members
+
+Our team consists of the following members:
+
+[Uchenna Mgbaja](https://www.linkedin.com/in/marianmgbaja/)
+
+
+ 
+
+
+
