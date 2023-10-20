@@ -5,7 +5,7 @@
 
 
 
-# <h1 align="center" id="heading"># Project Title-Team Members: Person 1, Person 2
+# <h1 align="center" id="heading"># 
 </h1>
 
 
@@ -30,11 +30,6 @@ The repository contains the following files:
 data.csv: Describe dataset
 
 
-### Team Members
-
-Our team consists of the following members:
-
-[Uchenna Mgbaja](https://www.linkedin.com/in/marianmgbaja/)
 
 
  
