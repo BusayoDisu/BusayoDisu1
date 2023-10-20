@@ -22,7 +22,7 @@ The current food donation management system in Edmonton faces challenges in coor
 ### Solution
 Efficiency Monitoring System:
 
-Develop a machine learning system to continuously monitor the efficiency of the overall donation collection process. This could include monitoring route efficiency, volunteer performance, and resource utilization. Linear Regression and Random Forest models were used.
+To develop a machine learning system to continuously monitor the efficiency of the overall donation collection process. This could include monitoring route efficiency, volunteer performance, and resource utilization. Linear Regression and Random Forest models were used.
 
 ### Repository Structure
 
