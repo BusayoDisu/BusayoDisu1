@@ -28,20 +28,20 @@ To develop a machine learning system to continuously monitor the efficiency of t
 
 The repository is organized as follows:
 
-Dataset:
+- Dataset:
 
 This folder contains the dataset used for the project. It includes information on donation locations, quantities, and other relevant parameters.
 
-Notebooks:
+- Notebooks:
 
 This folder contains the source code for loading, cleaning, manipulation, visualization, analysis of the data collected, and the machine learning models
 
-Presentations and Reports:
+- Presentations and Reports:
 
 This folder houses the results of the project, including data visualizations, model outputs, and key performance metrics.
 Others:
 
-Miscellaneous files:
+- Miscellaneous files:
 
 This folder houses other documents such as meeting notes, project timeline, and any other relevant information.
 
