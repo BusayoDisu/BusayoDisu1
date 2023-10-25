@@ -11,41 +11,20 @@
 
  
 
-### PROJECT TITLE: Edmonton City Food Drive Project
+### PROJECT TITLE: Predictive Modeling of Mental Health Conditions among University Students
 
-Welcome to the repository for our Capstone project at Norquest College. This project aims to optimize the food drive process in Edmonton City for more efficient and impactful donation management.
+This project aims to leverage machine learning techniques to predict and understand mental health conditions based on demographic and academic information.
 
 ### Problem Statement
 
-The current food donation management system in Edmonton faces challenges in coordinating drop-off locations, pick-up processes, and route planning. There is a need to automate and optimize these processes to ensure timely collection of donations and minimize logistical complexities.
+The increasing prevalence of mental health challenges among university students poses a significant concern. The absence of a systematic approach to understanding the intricate relationships between demographic, academic, and mental health variables hampers the development of effective preventive measures
 
 ### Solution
-Efficiency Monitoring System:
 
-To develop a machine learning system to continuously monitor the efficiency of the overall donation collection process. This could include monitoring route efficiency, volunteer performance, and resource utilization. Linear Regression and Random Forest models were used.
+By interpreting model outcomes, the project aims to offer tailored recommendations for universities to implement proactive and effective intervention strategies. 
 
-### Repository Structure
-
-The repository is organized as follows:
-
-- Dataset:
-
-This folder contains the dataset used for the project. It includes information on donation locations, quantities, and other relevant parameters.
-
-- Notebooks:
-
-This folder contains the source code for loading, cleaning, manipulation, visualization, analysis of the data collected, and the machine learning models
-
-- Presentations and Reports:
-
-This folder houses the results of the project, including data visualizations, model outputs, and key performance metrics.
-Others:
-
-- Miscellaneous files:
-
-This folder houses other documents such as meeting notes, project timeline, and any other relevant information.
-
-
+### Link to the project 
+https://colab.research.google.com/drive/1kTuRD1JP-mALqhDsEL2NOmx1Wrm5bwBM#scrollTo=iHSPpm3rWjYE
 
  
 
