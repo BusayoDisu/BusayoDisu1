@@ -12,7 +12,7 @@
  
 
 ### PROJECT TITLE: Predictive Modeling of Mental Health Conditions among University Students
-Welcome to my personal project
+Welcome to my personal project.
 
 This project aims to leverage machine learning techniques to predict and understand mental health conditions based on demographic and academic information.
 
