@@ -11,14 +11,14 @@
 
  
 
-### PROJECT TITLE: Predictive Modeling of Mental Health Conditions among University Students
+### PROJECT TITLE: Predictive Modeling of Academic Performance among University Students
 Welcome to my personal project.
 
-This project aims to leverage machine learning techniques to predict and understand mental health conditions based on demographic and academic information.
+This project aims to leverage machine learning techniques to predict and understand students' academic performance based on demographic and mental health information.
 
 ### Problem Statement
 
-The increasing prevalence of mental health challenges among university students poses a significant concern. The absence of a systematic approach to understanding the intricate relationships between demographic, academic, and mental health variables hampers the development of effective preventive measures
+In a diverse educational setting, understanding the factors that influence students' academic performance, as measured by Cumulative Grade Point Average (CGPA), is crucial for educators, administrators, and policymakers. This project aims to develop a predictive model that can estimate students' CGPA based on various demographic and psychological features.
 
 ### Solution
 
